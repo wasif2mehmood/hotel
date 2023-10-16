@@ -1,0 +1,5 @@
+123445678, 12-Feb-2023, Drunk and disorderly
+123445678, 12-Feb-2023, Assault employees
+PA0010023, 12-Mar-2023, Disputing credit card charges
+PA0010023, 12-Mar-2023, Causes damage to facilities
+C1899345, 05-Apr-2023, Assault and Battery

@@ -1,0 +1,6 @@
+123445678, Kyrie Irving, USA, 11
+E234567Z, Lee Ah Seng, Singapore, 0
+A9001022, Steve Tan, Malaysia, 5 
+C1899345, Lau Hong Gui, Malaysia, 0 
+PA0010023, Andrew Hewitt, Australia, 3
+M2375489, Mary Tan, Malaysia, 4
